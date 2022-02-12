@@ -1,0 +1,163 @@
+
+
+
+
+@media(max-width:900px ){
+    body{
+        text-align: center;
+    }
+}
+
+
+
+
+body{
+    background-color: palevioletred;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.col-lg-6{
+    margin-top:100px;
+}
+
+.container-fluid{
+     border-bottom: 10% white;
+     padding-left: 150px;
+     padding-right: 0px;
+     padding-top: 0px;
+}
+
+
+
+.btn{
+    margin:15px;
+}
+
+.heading{
+     font-size:4rem;
+     color: white;
+   
+}
+
+.navbar-brand{
+   font-size: 3rem;
+   
+   font-family: 'Dancing Script', cursive;
+
+}
+
+.nav-link{
+    margin: auto 20px auto 20px;
+    
+}
+
+.nav
+
+.feature-text{
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    padding: 3%;
+    
+}
+    
+.page2{
+    padding-left: 13%;
+    padding-right: 13%;
+    padding-bottom: 7%;
+}
+
+                  /*testimonial*/
+
+.testimonial{
+    padding: 5% 10% 5% 10%;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+      background-image: url("https://cdn.wallpapersafari.com/95/52/2dB9YH.jpg");
+     
+      padding-top: 50px;
+      padding-bottom: 40px;
+
+
+}
+
+img.card-img-top{
+    border: solid 10px white;
+    border-radius: 30px;
+}
+
+
+
+
+.title-cat{
+    height: 500px;
+    width: 500px;
+    margin-left: 80px;
+    margin-bottom: 60px;
+    border-radius: 15px;
+    border : solid wheat 6px;
+}
+
+.test-cat{
+    height: 300px;
+    width: 500px;
+    border-radius:2%;
+    padding-top:30px ;
+
+}
+
+h2{
+    color: white;
+    font-size: 40px;
+    border: solid wheat 4px;
+}
+
+/*press*/
+
+.press-img{
+    margin: auto 20px 5px 20px;
+    height: 100px;
+    width: 200px;
+}
+
+#press{
+    text-align: center;
+    margin-top: 80px;
+}
+
+
+
+
+.card{
+    line-height: 1;
+    text-align: center;
+    margin:7px;
+    padding: auto 0 auto 0;
+}
+
+#prizecard{
+    padding: 6% 7% 10% 7%;
+    background-color: wheat;
+
+}
+
+
+
+#last{
+    padding: 9% 7% 9% 7%;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
+    color : black;
+    
+}
+
+.last-head{
+    background-color: #FDCEB9;
+    color: rgb(17, 15, 15);
+}
+
+p{
+    color: grey;
+}
